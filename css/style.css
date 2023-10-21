@@ -64,10 +64,12 @@
 }
 
 a.nav-link,
-a.navbar-brand {
+a.navbar-brand,
+.navbar-toggler-icon {
     color: #C6D5F4;
 }
 
+.navbar-toggler-icon:hover,
 a.nav-link:hover,
 a.navbar-brand:hover {
     color: white;
